@@ -1,7 +1,7 @@
 ---
-type: 
-required: 
-installed:
+type: 辅助工具
+required: true
+installed: true
 ---
 
 <!--
@@ -11,5 +11,7 @@ installed: 是否安装
 -->
 
 # 插件说明
+
+
 
 # 使用方法

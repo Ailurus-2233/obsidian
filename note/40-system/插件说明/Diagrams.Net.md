@@ -1,7 +1,7 @@
 ---
-type: 
-required: 
-installed:
+type: 辅助工具
+required: false
+installed: true
 ---
 
 <!--

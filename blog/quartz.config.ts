@@ -10,7 +10,8 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     baseUrl: "blog.ailurus2233.site",
-    ignorePatterns: ["private", "templates"],
+    ignorePatterns: ["private", "templates", ".obsidian"],
+    defaultDateType: "created",
     theme: {
       typography: {
         header: "Schibsted Grotesk",
@@ -68,6 +69,7 @@ const config: QuartzConfig = {
       }),
       Plugin.Assets(),
       Plugin.Static(),
+      Plugin.NotFoundPage(),
     ],
   },
 }

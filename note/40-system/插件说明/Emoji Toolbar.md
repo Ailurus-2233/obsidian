@@ -2,6 +2,8 @@
 type: 辅助工具
 required: true
 installed: true
+tags:
+  - 插件说明
 ---
 
 # 插件说明

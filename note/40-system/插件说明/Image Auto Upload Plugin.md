@@ -2,6 +2,8 @@
 type: 功能增强
 required: true
 installed: true
+tags:
+  - 插件说明
 ---
 
 <!--

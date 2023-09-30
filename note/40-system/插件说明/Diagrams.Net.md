@@ -2,6 +2,8 @@
 type: 辅助工具
 required: false
 installed: true
+tags:
+  - 插件说明
 ---
 
 <!--
@@ -12,4 +14,7 @@ installed: 是否安装
 
 # 插件说明
 
+在obsidian中整合Draw.io，并直接以SVG的方式保存到文档里
+
 # 使用方法
+

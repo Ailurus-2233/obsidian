@@ -3,8 +3,8 @@ title: Visual Studio 快捷键
 category: 学习
 type: 归纳整理
 tags: 
-	- visual studio
-	- 工具使用
+    - visual studio
+    - 工具使用
 ---
 
 **默认使用快捷键方案：** Visual C# 2005

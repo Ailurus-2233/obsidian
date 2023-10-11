@@ -1,7 +1,7 @@
 ---
 type: 辅助工具
 required: false
-installed: true
+installed: false
 tags:
   - 插件说明
 ---

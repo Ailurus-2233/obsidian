@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "date": "date",
+    "deadline": "date",
+    "categroy": "text",
+    "Income": "number",
+    "expend": "number"
+  }
+}

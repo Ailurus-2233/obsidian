@@ -1,5 +1,12 @@
 # 学习与工作笔记仓库
 
+## 发布地址
+
+1. Github Page: [https://ailurus-2233.github.io/obsidian/](https://ailurus-2233.github.io/obsidian/)
+2. Cloud Service: [https://blog.ailurus2233.site/](https://blog.ailurus2233.site/)
+
+欢迎大家访问哦~
+
 ## 项目介绍
 
 这个仓库是用于记录在学习和工作中的笔记文件，旨在整理形成知识体系，为之后的实际工作提供知识检索的功能。它使用 Obsidian 编写笔记，整理后的文章通过 Quartz 生成静态页面，并被部署在 GitHub Pages 上。
@@ -22,4 +29,12 @@ Quartz：一个用于生成和部署静态网站的工具。详情请访问 [Qua
 
 ## 许可证
 
-这个项目是在 [MIT 许可证](https://mit-license.org/) 下开源的。请参阅 LICENSE 文件以获取更多信息。
+本项目的所有内容均根据 知识共享 署名-相同方式共享 4.0 国际许可协议 (CC BY-SA 4.0) 发布。这意味着您可以自由地分享和改编本项目的内容，只要您遵循以下条件：
+
+1. **署名:** 您必须给出适当的署名，提供指向本许可证的链接，同时标明是否（以及如何）对原始作品进行了更改。
+2. **相同方式共享:** 如果您改编、修改或以本作品为基础进行创作，您必须将您的贡献以与本许可证相同的许可协议发布。
+
+如：可以在您转发或修改文章中，合适的位置添加说明
+
+1. 本文为 `Ailurus-2233` 的原创文章，文章来源于开源项目 [https://github.com/Ailurus-2233/obsidian](https://github.com/Ailurus-2233/obsidian)
+2. 本文为 `Ailurus-2233` 的原创文章，原博客地址为 [https://blog.ailurus2233.site](https://blog.ailurus2233.site)

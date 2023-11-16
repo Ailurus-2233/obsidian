@@ -4,7 +4,7 @@
   "showIndentGuide": false,
   "showInlineTitle": true,
   "livePreview": true,
-  "promptDelete": true,
+  "promptDelete": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "99-system/资源文件/文档资源",
   "showUnsupportedFiles": true

@@ -6,21 +6,9 @@
       <description>Last 10 notes on 🪴 Quartz 4.0</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>关于Page的说明</title>
-    <link>https://quartz.jzhao.xyz/Page/%E5%85%B3%E4%BA%8EPage%E7%9A%84%E8%AF%B4%E6%98%8E</link>
-    <guid>https://quartz.jzhao.xyz/Page/%E5%85%B3%E4%BA%8EPage%E7%9A%84%E8%AF%B4%E6%98%8E</guid>
-    <description></description>
-    <pubDate>Sun, 19 Nov 2023 14:55:27 GMT</pubDate>
-  </item><item>
     <title>Page目录</title>
     <link>https://quartz.jzhao.xyz/Page/Page%E7%9B%AE%E5%BD%95</link>
     <guid>https://quartz.jzhao.xyz/Page/Page%E7%9B%AE%E5%BD%95</guid>
-    <description></description>
-    <pubDate>Sun, 19 Nov 2023 14:55:27 GMT</pubDate>
-  </item><item>
-    <title>关于Note的说明</title>
-    <link>https://quartz.jzhao.xyz/Note/%E5%85%B3%E4%BA%8ENote%E7%9A%84%E8%AF%B4%E6%98%8E</link>
-    <guid>https://quartz.jzhao.xyz/Note/%E5%85%B3%E4%BA%8ENote%E7%9A%84%E8%AF%B4%E6%98%8E</guid>
     <description></description>
     <pubDate>Sun, 19 Nov 2023 14:55:27 GMT</pubDate>
   </item><item>
@@ -36,35 +24,47 @@
     <description></description>
     <pubDate>Sun, 19 Nov 2023 14:55:27 GMT</pubDate>
   </item><item>
-    <title>关于Daily的说明</title>
-    <link>https://quartz.jzhao.xyz/Daily/%E5%85%B3%E4%BA%8EDaily%E7%9A%84%E8%AF%B4%E6%98%8E</link>
-    <guid>https://quartz.jzhao.xyz/Daily/%E5%85%B3%E4%BA%8EDaily%E7%9A%84%E8%AF%B4%E6%98%8E</guid>
-    <description></description>
-    <pubDate>Sun, 19 Nov 2023 14:55:27 GMT</pubDate>
-  </item><item>
     <title>关于About的说明</title>
     <link>https://quartz.jzhao.xyz/About/%E5%85%B3%E4%BA%8EAbout%E7%9A%84%E8%AF%B4%E6%98%8E</link>
     <guid>https://quartz.jzhao.xyz/About/%E5%85%B3%E4%BA%8EAbout%E7%9A%84%E8%AF%B4%E6%98%8E</guid>
     <description>这个模块是对博主本人一个说明，许多关于我的信息可以在这里找到，比如联系方式、当前的工作、近期的状态、工作情况、最近在忙的一些事情等等。 以下是这一模块的目录 00-About Me 01-教育经历 02-工作经历 03-资质证书 04-调用硬件 05-个人成果 .</description>
-    <pubDate>Thu, 21 Sep 2023 16:00:00 GMT</pubDate>
+    <pubDate>Wed, 15 Nov 2023 16:00:00 GMT</pubDate>
   </item><item>
     <title>关于我~</title>
     <link>https://quartz.jzhao.xyz/About/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/00-About-Me</link>
     <guid>https://quartz.jzhao.xyz/About/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/00-About-Me</guid>
     <description>基本信息 § 姓名：****** （不可说~，一般还是叫我Ailurus，可以读艾露露~） 性别：男 年龄：26 联系方式： Github: Ailurus-2233 (Aillurus2233) (github.com) E-mail: Ailurus2233@outlook.com WeChat: Zyu_Work 个人性格 § 个人性格真的很难总结的很恰当，就随便写写，希望以下的话能让你对我有个初步的认识。 爱好的话，还是喜欢玩游戏，最想的生活就是，一天工作结束后可以在电脑前玩自己想玩的游戏（我是原X），除此之外的话，比较喜欢看一些纪录片、动漫之类的视频；喜欢唱歌，但是工作之后就没再去过KTV（工作太忙了，可恶啊！！！） 在工作学习上的话，个人觉得自己还是一个认真负责的人，喜欢去钻研一些新的技术（俗称瞎折腾），当然在工作任务上面更喜欢有明确目标的去完成，那些开放型的任务对我来说有点点难搞，（也不知道做到什么程度合适，就是总感觉做的不太够，然后逼得自己去卷） 个人生活中的话，emmmm，社恐，hin社恐，就是一个内向的程序员，但是可能在网上就体现的不是很明显，但不是键盘侠，不喜欢随意的去责难一些人或者事，网上和生活中都一样。.</description>
-    <pubDate>Thu, 21 Sep 2023 16:00:00 GMT</pubDate>
+    <pubDate>Wed, 15 Nov 2023 16:00:00 GMT</pubDate>
   </item><item>
-    <title>教育经历</title>
+    <title>教育经历~</title>
     <link>https://quartz.jzhao.xyz/About/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/01-%E6%95%99%E8%82%B2%E7%BB%8F%E5%8E%86</link>
     <guid>https://quartz.jzhao.xyz/About/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/01-%E6%95%99%E8%82%B2%E7%BB%8F%E5%8E%86</guid>
     <description>河南大学 § 学院：软件学院 专业：软件工程 学位：硕士 研究方向：供应链检测 时间：2020.09 - 2023.06 GPA：4.29/4.7（1/56 专业前2%） 长沙理工大学 § 学院：数学与统计学院 专业：信息与计算科学 学位：本科 时间：2015.09 - 2019.06 .</description>
-    <pubDate>Thu, 21 Sep 2023 16:00:00 GMT</pubDate>
+    <pubDate>Wed, 15 Nov 2023 16:00:00 GMT</pubDate>
   </item><item>
     <title>工作经历</title>
     <link>https://quartz.jzhao.xyz/About/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/02-%E5%B7%A5%E4%BD%9C%E7%BB%8F%E5%8E%86</link>
     <guid>https://quartz.jzhao.xyz/About/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/02-%E5%B7%A5%E4%BD%9C%E7%BB%8F%E5%8E%86</guid>
     <description>中国科学院信息工程研究所 § 地点：北京 海淀 中国科学院信息工程研究所 职位：科研助理 时间：2021/04-2023/06 工作内容：以科研助理的身份参与信息工程研究所的研究与系统的开发，研究的主要方向为物联网安全，供应链检测。参与项目有软件供应链信息推断系统，物联网设备知识图谱系统，主要负责的工作内容有后端开发与系统测试，其中软件供应链信息推断系统是从设计开发到落地执行全程参与的项目。 使用技术：Java、Python、Mysql、Spring Boot、Mybatis 苏州迈为科技股份有限公司 § 地点：苏州 吴江 苏州迈为科技股份有限公司 职位：软件开发工程师 时间：2023/07-至今 工作内容：负责激光产品线工控机上位软件开发工作，为整个工艺流程提供硬件控制、信息处理以及可视化操作等服务，参与项目有LED巨量转移、LED单点修复。 使用技术：C#、WPF、Stylet、Sqlite .</description>
-    <pubDate>Thu, 21 Sep 2023 16:00:00 GMT</pubDate>
+    <pubDate>Wed, 15 Nov 2023 16:00:00 GMT</pubDate>
+  </item><item>
+    <title>资质证书</title>
+    <link>https://quartz.jzhao.xyz/About/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/03-%E8%B5%84%E8%B4%A8%E8%AF%81%E4%B9%A6</link>
+    <guid>https://quartz.jzhao.xyz/About/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/03-%E8%B5%84%E8%B4%A8%E8%AF%81%E4%B9%A6</guid>
+    <description>软件设计师资格证 § 华为认证网络工程师 §.</description>
+    <pubDate>Wed, 15 Nov 2023 16:00:00 GMT</pubDate>
+  </item><item>
+    <title>获奖经历</title>
+    <link>https://quartz.jzhao.xyz/About/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/04-%E8%8E%B7%E5%A5%96%E7%BB%8F%E5%8E%86</link>
+    <guid>https://quartz.jzhao.xyz/About/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/04-%E8%8E%B7%E5%A5%96%E7%BB%8F%E5%8E%86</guid>
+    <description>学生时期的奖项 § 全国大学生统计建模大赛 § 奖项等级：国家级 获奖等级：二等奖 获奖时间：2017.12 描述：三人为一组参与全国大学生统计建模大赛，在其中主要负责数据收集和程序编写的工作 湖南省数学学会数学教学研讨会优秀论文 § 奖项等级：省市级 获奖等级：二等奖 获奖时间：2018.11 描述：湖南省数学学会领导的教学研讨会项目成果，在该项目中负责算法设计与程序编写 长沙理工大学ACM比赛 § 奖项等级：校级 获奖等级：二等奖 获奖时间：2018.</description>
+    <pubDate>Wed, 15 Nov 2023 16:00:00 GMT</pubDate>
+  </item><item>
+    <title>个人成果</title>
+    <link>https://quartz.jzhao.xyz/About/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/05-%E4%B8%AA%E4%BA%BA%E6%88%90%E6%9E%9C</link>
+    <guid>https://quartz.jzhao.xyz/About/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/05-%E4%B8%AA%E4%BA%BA%E6%88%90%E6%9E%9C</guid>
+    <description>论文 § CWSN 2022 - A Graph Neural Network Based Model for IoT Binary Components Similarity Detection IJCNN 2023 - CEntRE: A Paragraph-Level Chinese Dataset for Relation Extraction Among Enterprises 专利 § CN116339720A - 二进制文件相似度匹配方法、装置及存储介质.</description>
+    <pubDate>Wed, 15 Nov 2023 16:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>

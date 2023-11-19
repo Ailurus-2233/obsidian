@@ -17,10 +17,11 @@
   "allowHtml": true,
   "inlineQueryPrefix": "=",
   "inlineJsQueryPrefix": "$=",
-  "inlineQueriesInCodeblocks": true,
-  "enableInlineDataview": true,
+  "inlineQueriesInCodeblocks": false,
+  "enableInlineDataview": false,
   "enableDataviewJs": true,
-  "enableInlineDataviewJs": true,
-  "prettyRenderInlineFields": true,
+  "enableInlineDataviewJs": false,
+  "prettyRenderInlineFields": false,
+  "prettyRenderInlineFieldsInLivePreview": false,
   "dataviewJsKeyword": "dataviewjs"
 }

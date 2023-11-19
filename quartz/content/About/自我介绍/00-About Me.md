@@ -8,10 +8,10 @@ tags:
 
 ## 基本信息
 
-**姓名**：`******` （不可说~，一般还是叫我Ailurus，可以读艾露露~）
-**性别**：男
-**年龄**：26
-**联系方式**：
+- **姓名**：`******` （不可说~，一般还是叫我Ailurus，可以读艾露露~）
+- **性别**：男
+- **年龄**：26
+- **联系方式**：
 - Github: [Ailurus-2233 (Aillurus2233) (github.com)](https://github.com/Ailurus-2233)
 - E-mail: Ailurus2233@outlook.com
 - WeChat: Zyu_Work

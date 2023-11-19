@@ -38,8 +38,11 @@ tags:
 
 关于我自己，自认为是一个喜欢瞎折腾的玩家，学过Java、Python、C#、Go，搞过前端、后端、桌面端，喜欢用Windows开发，但是有又孜孜不倦的去尝试各种linux发行版（没钱买mac）\~感觉什么都挺感兴趣的，是在广度上铺的很开一个人，所以可能在博客里可能看到各种各样的东西\~
 
-
 ## 如何联系我
 
 Github: [Ailurus-2233 (Aillurus2233) (github.com)](https://github.com/Ailurus-2233)
 E-mail: Ailurus2233@outlook.com
+
+
+> [!info]
+> 这是一个新的博客框架，为了替换以前使用Hexo，最近就会把以前博客中的内容一点一点的整理过来 2023-11-19

@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSettings",
       "TiWorldWww",
       "FasGears",
       "RiCodeSSlashLine",
@@ -27,12 +28,14 @@
     "iconInTabsEnabled": true,
     "iconInTitleEnabled": false,
     "iconInFrontmatterEnabled": false,
-    "iconsBackgroundCheckEnabled": false
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
   },
   "00-temp": "IbLightning",
   "10-about": "FasPerson",
   "20-note": "TiNotebook",
   "30-project": "RiCodeSSlashLine",
   "40-system": "FasGears",
-  "90-publish": "TiWorldWww"
+  "90-publish": "TiWorldWww",
+  "99-system": "LiSettings"
 }

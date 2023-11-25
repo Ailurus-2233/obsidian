@@ -7,8 +7,9 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/Ailurus-2233",
+      "E-Mail": "mailto:Ailurus2233@outlook.com",
+      QQ: "tencent://message/?uin=3644727461",
     },
   }),
 }
@@ -44,5 +45,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
   ],
-  right: [],
+  right: [
+    Component.Graph(),
+  ],
 }

@@ -28,8 +28,8 @@ interface BreadcrumbOptions {
 }
 
 const defaultOptions: BreadcrumbOptions = {
-  spacerSymbol: "❯",
-  rootName: "Home",
+  spacerSymbol: "/",
+  rootName: "主页",
   resolveFrontmatterTitle: true,
   hideOnRoot: true,
 }

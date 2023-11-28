@@ -1,5 +1,7 @@
 # 学习与工作笔记仓库
 
+![Alt](https://repobeats.axiom.co/api/embed/cb5e477ff320fe32b74139f5681585eb87c3dcde.svg "Repobeats analytics image")
+
 ## 发布地址
 
 1. Github Page: [https://ailurus-2233.github.io/obsidian/](https://ailurus-2233.github.io/obsidian/)

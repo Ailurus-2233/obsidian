@@ -1,16 +1,17 @@
 {
-  "uploadByClipSwitch": true,
+  "uploadByClipSwitch": false,
   "uploader": "PicGo",
-  "uploadServer": "http://127.0.0.1:36677/upload",
-  "deleteServer": "http://127.0.0.1:36677/delete",
+  "uploadServer": "http://picgo.ailurus2233.site/upload",
+  "deleteServer": "http://picgo.ailurus2233.site/delete",
   "imageSizeSuffix": "",
   "picgoCorePath": "",
   "workOnNetWork": false,
   "fixPath": false,
   "applyImage": true,
   "newWorkBlackDomains": "",
-  "deleteSource": false,
+  "deleteSource": true,
   "imageDesc": "origin",
+  "remoteServerMode": true,
   "uploadedImages": [
     {
       "fileName": "202310111435319.png",
@@ -333,6 +334,29 @@
       "id": "c914e63b-a767-428d-9891-e96baeebbc5d",
       "createdAt": 1698635152657,
       "updatedAt": 1698635152657
+    },
+    {
+      "fileName": "202311281443994.png",
+      "width": 787,
+      "height": 309,
+      "extname": ".png",
+      "imgUrl": "https://cdn.jsdelivr.net/gh/Ailurus-2233/PicGo-ImageRepo@main/work-Image/202311281443994.png",
+      "hash": "dcfcf7454c9d612120085e758da8c22f3718dbb7",
+      "type": "github",
+      "config": {
+        "_configName": "个人Github",
+        "token": "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",
+        "repo": "Ailurus-2233/PicGo-ImageRepo",
+        "branch": "main",
+        "path": "work-Image/",
+        "customUrl": "https://cdn.jsdelivr.net/gh/Ailurus-2233/PicGo-ImageRepo@main",
+        "_id": "931a95e7-6815-4792-be33-69e88b9cb84b",
+        "_createdAt": 1694680669661,
+        "_updatedAt": 1701153773863
+      },
+      "id": "3e1640b7-07eb-44fb-ba54-e0177df5aa3f",
+      "createdAt": 1701153789672,
+      "updatedAt": 1701153789672
     }
   ]
 }

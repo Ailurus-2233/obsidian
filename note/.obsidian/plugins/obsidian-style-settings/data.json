@@ -87,5 +87,8 @@
   "Appearance-light@@card-shadow-light": "none",
   "Appearance-light@@color-to-tab-icon-light": true,
   "Appearance-light@@background-activated-tab-header-light": "rgba(255,255,255,0.72)",
-  "Appearance-light@@shadow-activated-tab-header-light": "none"
+  "Appearance-light@@shadow-activated-tab-header-light": "none",
+  "Editor@@file-line-width": "860px",
+  "Editor@@line-height-customize": 1.6,
+  "Editor@@p-spacing-br": true
 }

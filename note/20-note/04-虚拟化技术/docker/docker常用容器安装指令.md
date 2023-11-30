@@ -48,15 +48,13 @@ docker-compose up -d
 
 ```bash
 mkdir -p ~/docker/nginx/conf
-mkdir -p ~/docker/nginx/conf.d
-mkdir -p ~/docker/nginx/html
 mkdir -p ~/docker/nginx/logs
 
 docker run --name nginx -d nginx
 
 docker cp nginx:/etc/nginx/nginx.conf ~/docker/nginx/conf/nginx.conf
-docker cp nginx:/etc/nginx/conf.d/ ~/docker/nginx/conf.d/
-docker cp nginx:/usr/share/nginx/html/ ~/docker/nginx/html/
+docker cp nginx:/etc/nginx/conf.d/ ~/docker/nginx/
+docker cp nginx:/usr/share/nginx/html/ ~/docker/nginx/
 
 docker stop nginx
 docker rm nginx

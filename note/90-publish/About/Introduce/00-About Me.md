@@ -1,5 +1,5 @@
 ---
-title: 关于我~
+title: 关于我
 draft: false
 date: 2023/11/16
 tags:

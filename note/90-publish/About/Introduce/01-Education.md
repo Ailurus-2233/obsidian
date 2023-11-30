@@ -1,5 +1,5 @@
 ---
-title: 教育经历~
+title: 教育经历
 draft: false
 date: 2023/11/16
 tags:

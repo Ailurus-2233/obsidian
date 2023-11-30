@@ -10,10 +10,10 @@ tags:
 
 以下是这一模块的目录
 
-- [[00-About Me]]
-- [[01-教育经历]]
-- [[02-工作经历]]
-- [[03-资质证书]]
-- [[04-获奖经历]]
-- [[05-个人成果]]
+- [[90-publish/About/Introduce/00-About Me]]
+- [[01-Education]]
+- [[02-Work]]
+- [[03-Qualification Certificate]]
+- [[04-Awards]]
+- [[05-Achievement]]
 

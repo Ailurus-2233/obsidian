@@ -35,7 +35,7 @@ function FolderContent(props: QuartzComponentProps) {
       <article>
         <p>{content}</p>
       </article>
-      <p>{pluralize(allPagesInFolder.length, "item")} under this folder.</p>
+      <p>{pluralize(allPagesInFolder.length, "篇博客")} 在这个文件夹中</p>
       <div>
         <PageList {...listProps} />
       </div>

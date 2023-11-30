@@ -15,7 +15,7 @@ interface Options {
 }
 
 const defaultOptions = (cfg: GlobalConfiguration): Options => ({
-  title: "Recent Notes",
+  title: "近期的笔记",
   limit: 3,
   linkToMore: false,
   filter: () => true,

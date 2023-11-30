@@ -7,14 +7,14 @@ export default (() => {
     const text = fileData.text
     if (text) {
       const segments: string[] = []
-      const { text: timeTaken, words: _words } = readingTime(text)
+      const { text: timeTaken, words: words, minutes: mins } = readingTime(text)
 
       if (fileData.dates) {
         segments.push(formatDate(getDate(cfg, fileData)!))
       }
-
-      segments.push(timeTaken)
-      return <p class={`content-meta ${displayClass ?? ""}`}>{segments.join(", ")}</p>
+      segments.push(`共${words}字 `)
+      segments.push(`阅读需要${mins}分钟`)
+      return <p class={`content-meta ${displayClass ?? ""}`}>{segments.join(" ")}</p>
     } else {
       return null
     }

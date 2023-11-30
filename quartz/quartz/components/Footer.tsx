@@ -14,10 +14,10 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <hr />
         <p>
-          Created with  <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>, © {year}
+          博客引擎  <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>, © {year}
         </p>
         <ul>
-        Contact me:
+        联系方式:
           {Object.entries(links).map(([text, link]) => (
             <li>
               <a href={link}>{text}</a>

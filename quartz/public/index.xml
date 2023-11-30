@@ -10,19 +10,19 @@
     <link>https://blog.ailurus2233.site/02-%E7%AC%94%E8%AE%B0/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/%E8%99%9A%E6%8B%9F%E5%8C%96%E6%8A%80%E6%9C%AF/docker/%E5%AE%89%E8%A3%85docker</link>
     <guid>https://blog.ailurus2233.site/02-%E7%AC%94%E8%AE%B0/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/%E8%99%9A%E6%8B%9F%E5%8C%96%E6%8A%80%E6%9C%AF/docker/%E5%AE%89%E8%A3%85docker</guid>
     <description>Arch § 安装docker sudo pacman -S docker 启动docker sudo systemctl start docker.service 开机自动启动 sudo systemctl enable docker.service 将用户添加到docker组 sudo gpasswd -a $USER docker 修改镜像位置 /etc/docker/daemon.</description>
-    <pubDate>Thu, 30 Nov 2023 01:55:05 GMT</pubDate>
+    <pubDate>Thu, 30 Nov 2023 01:59:47 GMT</pubDate>
   </item><item>
     <title>docker部署piclist server</title>
     <link>https://blog.ailurus2233.site/02-%E7%AC%94%E8%AE%B0/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/%E8%99%9A%E6%8B%9F%E5%8C%96%E6%8A%80%E6%9C%AF/docker/%E4%BD%BF%E7%94%A8docker%E9%83%A8%E7%BD%B2piclist-server</link>
     <guid>https://blog.ailurus2233.site/02-%E7%AC%94%E8%AE%B0/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/%E8%99%9A%E6%8B%9F%E5%8C%96%E6%8A%80%E6%9C%AF/docker/%E4%BD%BF%E7%94%A8docker%E9%83%A8%E7%BD%B2piclist-server</guid>
     <description>新建 node 容器 § 编辑文件 docker-compose.yml § services: caddy: image: node:16.20.1 container_name: piclist restart: always networks: caddy: stdin_open: true tty: true networks: caddy: external: true 启动 node 容器 § docker compose up -d 安装PicList § 进入 node 容器 § docker exec -it piclist bash 修改国内安装源 § npm config set sharp_binary_host &quot;https://npm.</description>
-    <pubDate>Thu, 30 Nov 2023 01:55:05 GMT</pubDate>
+    <pubDate>Thu, 30 Nov 2023 01:59:47 GMT</pubDate>
   </item><item>
     <title>docker常用容器安装指令</title>
     <link>https://blog.ailurus2233.site/02-%E7%AC%94%E8%AE%B0/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/%E8%99%9A%E6%8B%9F%E5%8C%96%E6%8A%80%E6%9C%AF/docker/docker%E5%B8%B8%E7%94%A8%E5%AE%B9%E5%99%A8%E5%AE%89%E8%A3%85%E6%8C%87%E4%BB%A4</link>
     <guid>https://blog.ailurus2233.site/02-%E7%AC%94%E8%AE%B0/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/%E8%99%9A%E6%8B%9F%E5%8C%96%E6%8A%80%E6%9C%AF/docker/docker%E5%B8%B8%E7%94%A8%E5%AE%B9%E5%99%A8%E5%AE%89%E8%A3%85%E6%8C%87%E4%BB%A4</guid>
     <description>gitea § mkdir -p ~/docker/gitea version: &quot;3&quot; networks: gitea: external: false services: server: image: gitea/gitea:1.20.5 container_name: gitea environment: - USER_UID=1000 - USER_GID=1000 restart: always networks: - gitea volumes: - ~/docker/gitea:/data - /etc/timezone:/etc/timezone:ro - /etc/localtime:/etc/localtime:ro ports: - &quot;3000:3000&quot; - &quot;22:22&quot; docker-compose up -d nginx § mkdir -p ~/docker/nginx/conf mkdir -p ~/docker/nginx/conf.</description>
-    <pubDate>Thu, 30 Nov 2023 01:55:05 GMT</pubDate>
+    <pubDate>Thu, 30 Nov 2023 01:59:47 GMT</pubDate>
   </item><item>
     <title>高并发场景下，怎么保证数据的一致性的</title>
     <link>https://blog.ailurus2233.site/02-%E7%AC%94%E8%AE%B0/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/%E9%AB%98%E5%B9%B6%E5%8F%91%E5%9C%BA%E6%99%AF%E4%B8%8B%EF%BC%8C%E6%80%8E%E4%B9%88%E4%BF%9D%E8%AF%81%E6%95%B0%E6%8D%AE%E7%9A%84%E4%B8%80%E8%87%B4%E6%80%A7%E7%9A%84</link>

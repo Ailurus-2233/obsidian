@@ -4,7 +4,7 @@
 
 ## 发布地址
 
-1. Github Page: [https://ailurus-2233.github.io/obsidian/](https://ailurus-2233.github.io/obsidian/)
+1. Github Page: [https://ailurus-2233.github.io/quartz/](https://ailurus-2233.github.io/quartz/)
 2. Cloud Service: [https://blog.ailurus2233.site/](https://blog.ailurus2233.site/)
 
 欢迎大家访问哦~
@@ -24,15 +24,16 @@
 | 工作中的笔记  | 工作中遇到的问题、解决方案（工作要求保密） | × | ×  |
 | 生活中的记录 | 一些随笔日记啥的 | ✓ |  整理后酌情发布（哎嘿~） |
 
-## 文件结构
+### 文件结构
 
-note/：存储所有的 Obsidian 笔记文件。
+该笔记主要有4个内容模块，分别为：
 
-quartz/：包含用于生成静态页面的 Quartz 配置和文件。
+1. `100-about`：记录一些个人的自我介绍
+2. `200-note`: 主要笔记存储的位置
+3. `300-daily`: 每日记录的存储位置
+4. `400-page`: 一些其他有意思的页面
 
-quartz/public：存储编译生成的静态页面，用于部署。
-
-shell：包含用于自动化部署的脚本。
+除此之外还有`000-temp`用来记录一些临时的笔记，`900-system`用来存放Obsidian相关的内容，如模板资源等。
 
 ## 使用技术
 

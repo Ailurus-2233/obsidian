@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "200-note/01-开发相关/C++语言基础/C++ Primer/01 C++ 简介.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "200-note/01-开发相关/C++语言基础/C++ Primer/01 C++ 简介.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "200-note/01-开发相关/C++语言基础/C++ Primer/01 C++ 简介.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "200-note/01-开发相关/C++语言基础/C++ Primer/01 C++ 简介.md"
               }
             }
           }
@@ -161,11 +161,18 @@
   },
   "active": "19df6e9aaaeeeb07",
   "lastOpenFiles": [
-    "900-system/关于系统资源.md",
-    "index.md",
-    "400-page/关于页面.md",
-    "300-daily/关于日志.md",
+    "900-system/模板文件/笔记相关/笔记模板.md",
+    "900-system/插件说明/DiDa Todo Sync.md",
+    "200-note/01-开发相关/C++语言基础/C++ Primer/01 C++ 简介.md",
     "200-note/关于笔记整理.md",
+    "200-note/01-开发相关/C++语言基础/C++ Primer",
+    "200-note/01-开发相关/C++语言基础/C++ 基础语法.md",
+    "200-note/01-开发相关/C++语言基础/未命名.md",
+    "300-daily/关于日志.md",
+    "index.md",
+    "200-note/01-开发相关/C++语言基础",
+    "900-system/关于系统资源.md",
+    "400-page/关于页面.md",
     "200-note/99-杂七杂八/如何生成漂亮的Github仓库提交分析图.md",
     "100-about/关于自我介绍.md",
     "200-note/02-Linux技术/常用命令/tar 压缩命令.md",
@@ -182,18 +189,13 @@
     "100-about/自我介绍/02-工作经历.md",
     "100-about/自我介绍/01-教育经历.md",
     "900-system/模板文件/日记相关/日报模板.md",
-    "900-system/模板文件/笔记相关/笔记模板.md",
     "900-system/模板文件/日记相关",
     "900-system/模板文件/博客相关/文章模板.md",
     "Pasted image 20220405105106.png.md",
     "200-note/01-开发相关/基础.Go语言基础/image/Pasted image 20220405105104.png",
     "200-note/01-开发相关/基础.Go语言基础/image/Pasted image 20220402091630.png",
     "200-note/01-开发相关/基础.Go语言基础/image/Pasted image 20220402091523.png",
-    "200-note/01-开发相关/基础.Go语言基础/007-结构体.md",
     "200-note/01-开发相关/基础.Go语言基础/image/Pasted image 20220402091453.png",
-    "200-note/01-开发相关/基础.Go语言基础/012-作用域.md",
-    "200-note/01-开发相关/基础.Go语言基础/011-函数执行顺序.md",
-    "200-note/01-开发相关/基础.Go语言基础/010-控制结构.md",
     "000-temp",
     "900-system/资源文件/文档资源/巨量转移流程.svg",
     "900-system/资源文件/文档资源/代码-上料器下料流程.svg",

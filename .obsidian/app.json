@@ -9,5 +9,6 @@
   "attachmentFolderPath": "99-system/资源文件/文档资源",
   "showUnsupportedFiles": true,
   "focusNewTab": false,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "foldIndent": false
 }

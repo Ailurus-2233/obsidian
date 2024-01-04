@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200-note/01-开发相关/C++语言基础/C++ Primer/03 字符串、向量和数组.md",
+                "file": "200-note/01-开发相关/C++语言基础/C++ Primer/01 C++ 简介.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200-note/01-开发相关/C++语言基础/C++ Primer/03 字符串、向量和数组.md",
+                "file": "200-note/01-开发相关/C++语言基础/C++ Primer/01 C++ 简介.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200-note/01-开发相关/C++语言基础/C++ Primer/03 字符串、向量和数组.md",
+                "file": "200-note/01-开发相关/C++语言基础/C++ Primer/01 C++ 简介.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200-note/01-开发相关/C++语言基础/C++ Primer/03 字符串、向量和数组.md"
+                "file": "200-note/01-开发相关/C++语言基础/C++ Primer/01 C++ 简介.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "19df6e9aaaeeeb07",
   "lastOpenFiles": [
-    "200-note/01-开发相关/C++语言基础/C++ Primer/02 变量和基本类型.md",
     "200-note/01-开发相关/C++语言基础/C++ Primer/03 字符串、向量和数组.md",
+    "200-note/01-开发相关/C++语言基础/C++ Primer/02 变量和基本类型.md",
     "200-note/01-开发相关/C++语言基础/C++ Primer/01 C++ 简介.md",
     "200-note/01-开发相关/C++语言基础/C++ Primer/00 笔记目录.md",
     "900-system/模板文件/笔记相关/目录模板.md",

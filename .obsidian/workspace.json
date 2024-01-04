@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200-note/01-开发相关/C++语言基础/C++ Primer/01 C++ 简介.md",
+                "file": "200-note/01-开发相关/C++语言基础/C++ Primer/03 字符串、向量和数组.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -86,8 +86,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200-note/01-开发相关/C++语言基础/C++ Primer/01 C++ 简介.md",
-                "collapseAll": false,
+                "file": "200-note/01-开发相关/C++语言基础/C++ Primer/03 字符串、向量和数组.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200-note/01-开发相关/C++语言基础/C++ Primer/01 C++ 简介.md",
+                "file": "200-note/01-开发相关/C++语言基础/C++ Primer/03 字符串、向量和数组.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,11 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200-note/01-开发相关/C++语言基础/C++ Primer/01 C++ 简介.md"
+                "file": "200-note/01-开发相关/C++语言基础/C++ Primer/03 字符串、向量和数组.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -150,20 +151,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "19df6e9aaaeeeb07",
   "lastOpenFiles": [
-    "900-system/模板文件/笔记相关/笔记模板.md",
-    "900-system/插件说明/DiDa Todo Sync.md",
+    "200-note/01-开发相关/C++语言基础/C++ Primer/02 变量和基本类型.md",
+    "200-note/01-开发相关/C++语言基础/C++ Primer/03 字符串、向量和数组.md",
     "200-note/01-开发相关/C++语言基础/C++ Primer/01 C++ 简介.md",
+    "200-note/01-开发相关/C++语言基础/C++ Primer/00 笔记目录.md",
+    "900-system/模板文件/笔记相关/目录模板.md",
+    "900-system/模板文件/笔记相关/笔记模板.md",
+    "200-note/01-开发相关/Go语言基础/000-发展历史.md",
+    "900-system/插件说明/DiDa Todo Sync.md",
     "200-note/关于笔记整理.md",
     "200-note/01-开发相关/C++语言基础/C++ Primer",
     "200-note/01-开发相关/C++语言基础/C++ 基础语法.md",
@@ -186,12 +192,7 @@
     "100-about/自我介绍/00-About Me.md",
     "100-about/自我介绍/03-资质证书.md",
     "100-about/自我介绍/04-获奖经历.md",
-    "100-about/自我介绍/02-工作经历.md",
-    "100-about/自我介绍/01-教育经历.md",
-    "900-system/模板文件/日记相关/日报模板.md",
     "900-system/模板文件/日记相关",
-    "900-system/模板文件/博客相关/文章模板.md",
-    "Pasted image 20220405105106.png.md",
     "200-note/01-开发相关/基础.Go语言基础/image/Pasted image 20220405105104.png",
     "200-note/01-开发相关/基础.Go语言基础/image/Pasted image 20220402091630.png",
     "200-note/01-开发相关/基础.Go语言基础/image/Pasted image 20220402091523.png",

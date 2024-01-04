@@ -1,10 +1,10 @@
 {
   "accentColor": "#ffffff",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "cssTheme": "Border",
   "interfaceFontFamily": "Sarasa Fixed SC",
   "monospaceFontFamily": "Sarasa Fixed SC",
-  "baseFontSize": 18,
+  "baseFontSize": 17,
   "textFontFamily": "Sarasa Fixed SC",
   "nativeMenus": true,
   "translucency": false,

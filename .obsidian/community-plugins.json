@@ -13,5 +13,11 @@
   "heatmap-calendar",
   "obsidian-icon-folder",
   "obsidian-minimal-settings",
-  "obsidian-git"
+  "obsidian-git",
+  "cm-chs-patch",
+  "obsidian-pangu",
+  "obsidian-linter",
+  "better-fn",
+  "better-word-count",
+  "easy-typing-obsidian"
 ]

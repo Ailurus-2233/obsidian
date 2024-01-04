@@ -3,9 +3,11 @@
   "showLineNumber": true,
   "showIndentGuide": false,
   "showInlineTitle": true,
-  "livePreview": true,
+  "livePreview": false,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "99-system/资源文件/文档资源",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "focusNewTab": false,
+  "propertiesInDocument": "visible"
 }

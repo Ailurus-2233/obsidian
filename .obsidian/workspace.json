@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ea757a1c672c6acb",
+        "id": "4eedce6f375b3457",
         "type": "tabs",
         "children": [
           {
-            "id": "19df6e9aaaeeeb07",
+            "id": "04723a4b3991a6c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200-note/01-开发相关/C++语言基础/C++ Primer/02 变量和基本类型.md",
+                "file": "200-note/01-开发相关/C++语言基础/C++ Primer/04 表达式.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200-note/01-开发相关/C++语言基础/C++ Primer/02 变量和基本类型.md",
+                "file": "200-note/01-开发相关/C++语言基础/C++ Primer/04 表达式.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200-note/01-开发相关/C++语言基础/C++ Primer/02 变量和基本类型.md",
+                "file": "200-note/01-开发相关/C++语言基础/C++ Primer/04 表达式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200-note/01-开发相关/C++语言基础/C++ Primer/02 变量和基本类型.md"
+                "file": "200-note/01-开发相关/C++语言基础/C++ Primer/04 表达式.md"
               }
             }
           }
@@ -151,23 +151,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "19df6e9aaaeeeb07",
+  "active": "04723a4b3991a6c4",
   "lastOpenFiles": [
-    "200-note/01-开发相关/C++语言基础/C++ Primer/01 C++ 简介.md",
-    "200-note/01-开发相关/C++语言基础/C++ Primer/02 变量和基本类型.md",
-    "200-note/01-开发相关/C++语言基础/C++ Primer/00 笔记目录.md",
+    "index.md",
+    "README.md",
+    "200-note/01-开发相关/C++语言基础/C++ Primer/04 表达式.md",
     "200-note/01-开发相关/C++语言基础/C++ Primer/03 字符串、向量和数组.md",
-    "900-system/模板文件/笔记相关/笔记模板.md",
+    "200-note/01-开发相关/C++语言基础/C++ Primer/02 变量和基本类型.md",
+    "200-note/01-开发相关/C++语言基础/C++ Primer/01 C++ 简介.md",
+    "200-note/01-开发相关/C++语言基础/C++ Primer/00 笔记目录.md",
     "900-system/模板文件/笔记相关/目录模板.md",
+    "900-system/模板文件/笔记相关/笔记模板.md",
+    "200-note/01-开发相关/开发工具/Visual Studio 快捷键.md",
+    "200-note/07-算法设计",
+    "200-note/01-开发相关/Go语言基础/005-常量.md",
+    "900-system/关于系统资源.md",
+    "99-system/资源文件/ExcaliDraw/Drawing 2024-01-08 10.00.33.excalidraw.md",
+    "99-system/资源文件/ExcaliDraw",
+    "99-system/资源文件",
+    "99-system",
     "200-note/01-开发相关/Go语言基础/000-发展历史.md",
     "900-system/插件说明/DiDa Todo Sync.md",
     "200-note/关于笔记整理.md",
@@ -175,9 +186,7 @@
     "200-note/01-开发相关/C++语言基础/C++ 基础语法.md",
     "200-note/01-开发相关/C++语言基础/未命名.md",
     "300-daily/关于日志.md",
-    "index.md",
     "200-note/01-开发相关/C++语言基础",
-    "900-system/关于系统资源.md",
     "400-page/关于页面.md",
     "200-note/99-杂七杂八/如何生成漂亮的Github仓库提交分析图.md",
     "100-about/关于自我介绍.md",
@@ -185,13 +194,8 @@
     "200-note/02-Linux技术/常见问题/网络管理.md",
     "200-note/02-Linux技术/常见问题/systemctl 新建一个简单服务.md",
     "200-note/02-Linux技术/常见问题/卸载蜂鸣器模块.md",
-    "200-note/06-软件工程/高并发场景下，怎么保证数据的一致性的.md",
     "200-note/06-软件工程",
     "200-note/05-测试理论",
-    "100-about/自我介绍/05-个人成果.md",
-    "100-about/自我介绍/00-About Me.md",
-    "100-about/自我介绍/03-资质证书.md",
-    "100-about/自我介绍/04-获奖经历.md",
     "900-system/模板文件/日记相关",
     "200-note/01-开发相关/基础.Go语言基础/image/Pasted image 20220405105104.png",
     "200-note/01-开发相关/基础.Go语言基础/image/Pasted image 20220402091630.png",
@@ -200,8 +204,6 @@
     "000-temp",
     "900-system/资源文件/文档资源/巨量转移流程.svg",
     "900-system/资源文件/文档资源/代码-上料器下料流程.svg",
-    "900-system/资源文件/文档资源/代码-上料器上料流程.svg",
-    "400-page",
-    "300-daily"
+    "900-system/资源文件/文档资源/代码-上料器上料流程.svg"
   ]
 }
